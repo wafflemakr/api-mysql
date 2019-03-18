@@ -66,7 +66,7 @@ app.get("/events", (req, res) => {
   <thead><tr>
   <th scope="col">#</th>
   <th scope="col">Name</th>
-  <th "scope="col">Block Number</th>
+  <th scope="col">Block Number</th>
   </tr></thead><tbody>`;
 
   myContract
